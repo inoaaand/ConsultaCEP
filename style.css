@@ -9,9 +9,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 200vh;
   margin: 0;
-  padding: 20px;
+  padding: 40px;
   box-sizing: border-box;
 }
 
